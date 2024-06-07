@@ -1,6 +1,6 @@
 ##
 <div align="center">
-   <a href="WASSUP3/Korean.md"> <b>Translate to Korean</b> </a>
+   <a href="/Korean.md"> <b>Translate to Korean</b> </a>
 </div>
 
 <br>
