@@ -73,6 +73,7 @@
 </div>
 
 <div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=0918ksw" alt="0918ksw"/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0918ksw&count_bg=%237D41E0&title_bg=%23555555&icon=micro-dot-blog.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
