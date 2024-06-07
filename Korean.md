@@ -66,7 +66,7 @@
 
 <br>
 
-## 팔로우를 격하게 환영!
+## 팔로우 MEEEEE
 <div align="center">
 <a href="https://github.com/0918ksw" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/%EA%B9%83%ED%97%88%EB%B8%8C-0918ksw-blue?style=flat&logo=github&logoColor=white&color=7D41E0&link=https%3A%2F%2Fqr.kakaopay.com%2FEj8KK7VPT1f401753">
