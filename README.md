@@ -1,4 +1,8 @@
+<div align="center">
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+sans&weight=500&size=21&duration=3000&pause=1200&color=7D41E0&background=FFF50000&center=true&vCenter=true&random=true&width=500&lines=%23beObesessed%F0%9F%8C%9F+Designer+CCCHUMI.k;UI+Designer+from+Korea%F0%9F%87%B0%F0%9F%87%B7)](https://git.io/typing-svg)
+
+</div>
 
 <br>
 <div><a href="https://www.instagram.com/cchumi.k/"><img src="https://github.com/0918ksw/WASSUP3/assets/152162128/d7afd908-cf40-45ec-8a1b-ebfe8ed6a147" align="right" height="200" /></a>
@@ -46,12 +50,20 @@ Freelance designer :mage_woman: studying advertising design, content design, UX 
 </a>
 <a href="https://instagram.com/ssongwon_k" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</a> 
 
 <br>
 
+<div align="center">
+  
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=0918ksw&show_icons=true&count_private=true&hide_border=true" align="center" /> <br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0918ksw&hide_progress=true)
+![CCHUMI's GitHub stats](https://github-readme-stats.vercel.app/api?username=0918ksw&show_icons=true&theme=midnight-purple#gh-dark-mode-only)
+<br>
+
+</div>
+
+<div align="center">
+  
 <img src="https://komarev.com/ghpvc/?username=0918ksw" alt="0918ksw"/>
 </div>
