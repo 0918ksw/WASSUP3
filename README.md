@@ -1,3 +1,8 @@
+##
+<div align="center">
+   <a href="/Korean.md"> <b>Translate to Korean</b> </a>
+</div>
+
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+sans&weight=500&size=21&duration=3000&pause=1200&color=7D41E0&background=FFF50000&center=true&vCenter=true&random=true&width=500&lines=%23beObesessed%F0%9F%8C%9F+Designer+CCCHUMI.k;UI+Designer+from+Korea%F0%9F%87%B0%F0%9F%87%B7)](https://git.io/typing-svg)
