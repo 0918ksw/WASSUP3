@@ -53,10 +53,11 @@ Freelance designer :mage_woman: studying advertising design, content design, UX 
 </a> 
 
 <br>
+  
+## Github Stats  
 
 <div align="center">
   
-## Github Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0918ksw&hide_progress=true)
 ![CCHUMI's GitHub stats](https://github-readme-stats.vercel.app/api?username=0918ksw&show_icons=true&theme=midnight-purple#gh-dark-mode-only)
 <br>
