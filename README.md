@@ -1,6 +1,8 @@
-##
+
 <div align="center">
-   <a href="/Korean.md"> <b>Translate to Korean</b> </a>
+<a href="/Korean.md" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/Translate%20to%20Korean-8A2BE2?style=for-the-badge&color=7D41E0">
+</a>
 </div>
 
 <br>
