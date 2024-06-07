@@ -73,6 +73,10 @@ Freelance designer :mage_woman: studying advertising design, content design, UX 
 </div>
 
 <div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=0918ksw" alt="0918ksw"/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0918ksw&count_bg=%237D41E0&title_bg=%23555555&icon=micro-dot-blog.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/0918ksw?pet-id=1" width="1000" height="120"/>
+</a>
