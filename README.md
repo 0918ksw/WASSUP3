@@ -53,11 +53,5 @@ Freelance designer :mage_woman: studying advertising design, content design, UX 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=0918ksw&show_icons=true&count_private=true&hide_border=true" align="center" /> <br><br>
-<a href="https://github.com/0918ksw/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/0918ksw/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/0918ksw/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/0918ksw/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/0918ksw/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/0918ksw/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/0918ksw/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 <img src="https://komarev.com/ghpvc/?username=0918ksw" alt="0918ksw"/>
 </div>
