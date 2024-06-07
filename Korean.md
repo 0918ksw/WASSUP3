@@ -1,7 +1,8 @@
 
 <div align="center">
-   
-![Static Badge](https://img.shields.io/badge/Translate%20to%20English-8A2BE2?style=for-the-badge&color=7D41E0&link=%20/README.md)
+<a href="/README.md" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/Translate%20to%20English-8A2BE2?style=for-the-badge&color=7D41E0">
+</a>
 </div>
 
 <br>
